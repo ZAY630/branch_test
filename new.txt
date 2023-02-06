@@ -1,9 +1,0 @@
-New file
-
-Added a line in new.txt from main branch (Only keeping the change from main branch)
-
-Added another line
-
-And another line 
-
-This is the end!
